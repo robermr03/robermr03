@@ -24,4 +24,4 @@ Aplicación de gestión de recordatorios con envío automático de emails. Larav
 
 ## 📊 Stats
 
-![Roberto's GitHub Stats](https://streak-stats.demolab.com?user=robermr03&theme=dark&hide_border=true)
+![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robermr03&show_icons=true&theme=dark&hide_border=true&count_private=true)
