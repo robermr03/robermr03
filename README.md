@@ -19,9 +19,9 @@ Aplicación de gestión de recordatorios con envío automático de emails. Larav
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-romero-monge/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:robertoromeromon@gmail.com)
 
 ## 📊 Stats
 
-![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robermr03&show_icons=true&theme=dark)
+![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robermr03&show_icons=true&theme=dark&hide_border=true&count_private=true)
